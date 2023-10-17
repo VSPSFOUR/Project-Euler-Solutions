@@ -11,7 +11,7 @@ This repository holds the progress I have made thus far in Project Euler.
 |14/10/2023 | 1| 
 |15/10/2023| 2 - 6| 
 |16/10/2023| 7, 9 - 10 |
+|17/10/2023| 8 | 
 
 # In Progress 
-- Problem 8 
 - Problem 12
